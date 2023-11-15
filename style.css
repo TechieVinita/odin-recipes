@@ -1,0 +1,25 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(255, 255, 255);
+    color: rgb(77, 77, 77);
+}
+
+h1{
+    text-align: center;
+}
+
+h1, h3{
+    color: rgb(70, 70, 69);
+}
+
+.recipes-list-item a{
+    text-decoration: none;
+    color: rgb(70, 70, 69);
+    font-size: 18px;
+    list-style: none;
+}
+
+#recipe-img{
+    height: auto;
+    width: 400px;
+}
